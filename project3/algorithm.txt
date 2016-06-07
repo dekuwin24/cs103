@@ -1,0 +1,13 @@
+WordCount Algorithm
+
+Goal:
+
+Prints out, in this particular order:
+#lines  #words  #characters  #unique lines  #unique words
+
+There is nothing else that this program should print as a result of its execution...
+
+
+Possible steps:
+
+1) ask user to enter string input
